@@ -1,0 +1,24 @@
+[
+	{
+		"test": "lorem\n"
+	},
+	{
+		"test": "dev\n"
+	},
+	{
+		"test": "ram\n"
+	},
+	{
+		"test": "hello\n"
+	},
+	{
+		"test": "dc\n"
+	},
+	{
+		"correct_answers":
+		[
+			"this article is contributed bydec"
+		],
+		"test": "dec\n"
+	}
+]
